@@ -1,3 +1,6 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
+[![SCAI Commercial License](https://img.shields.io/badge/Commercial-SCAI%20License-blue.svg)](legal/SCAI-COMMERCIAL-LICENSE-v1.0.md)
+
 # 善春 AI 16 层安全协议 | ShanchunAI 16 Layers Protocol
 
 **中文**：让 AI 从“简单对话”升级为可落地、可审计、合规安全、支持商业化的标准化运行框架。
@@ -8,9 +11,9 @@
 
 ## 🔒 项目定位 | Project Positioning
 
-**中文**：本项目并非普通提示词，而是一套自研 AI 底层交互协议。系统性解决行业三大痛点：AI 指令易被绕过、输出结果不可信、安全防御无法自主迭代。整套架构支持私有化部署、全流程校验与版本溯源。
+**中文**：本项目并非普通提示词，而是一套自研 AI 底层交互协议。系统性解决行业三大痛点：AI 指令易被绕过、输出结果不可信、安全防御无法自主迭代。整套架构支持私有化部署、端到端校验与版本溯源。
 
-**English**: This is not a regular prompt, but a self-developed underlying interaction protocol for AI. It systematically solves three major industry pain points: vulnerable AI instructions, untrustworthy outputs, and static security defense. The whole architecture supports private deployment, full-process verification and version traceability.
+**English**: This is not a regular prompt, but a self-developed underlying interaction protocol for AI. It systematically solves three major industry pain points: prompt injection vulnerabilities, unreliable outputs, and non-adaptive defense mechanisms. The whole architecture supports private deployment, end-to-end verification and version traceability.
 
 ---
 
@@ -37,29 +40,29 @@
 ## 🧠 核心架构：16 层串行闭环体系 | Core Architecture: 16-Layer Serial Closed-loop System
 
 **中文**：
-- **防御模块（第 1-7 层）**：身份校验、合规风控、成本管控、数据迁移
+- **防御模块（第 1-7 层）**：身份校验、合规风控、成本归零、跨领域迁移
 - **溯源模块（第 8-12 层）**：多智能体辩论、上下文管理、DNA 溯源编码、版本管理
-- **进化模块（第 13-16 层）**：对抗防御、样本迭代、跨模型适配、技术沉淀
+- **进化模块（第 13-16 层）**：对抗防御、样本变异、跨模型适配、实验知识沉淀
 
 **English**:
-- **Defense Module (Layer 1-7)**: Identity verification, compliance risk control, cost management & data migration
+- **Defense Module (Layer 1-7)**: Identity verification, compliance risk control, cost neutralization & cross-domain transfer
 - **Traceability Module (Layer 8-12)**: Multi-agent debate, context management, DNA traceability code & version control
-- **Evolution Module (Layer 13-16)**: Anti-interference defense, sample iteration, cross-model adaptation & technical accumulation
+- **Evolution Module (Layer 13-16)**: Adversarial defense, sample mutation, cross-model adaptation & knowledge accumulation
 
 完整16层架构定义文档：[spec/16-layers-spec-v2.0.md](spec/16-layers-spec-v2.0.md)
 
 ---
 
-## 🚀 旗舰产品：蓝图指挥部·AI 开发梦之队 | Flagship Product: Blueprint Command
+## 🚀 旗舰产品：蓝图指挥部·AI 开发梦之队 | Flagship Product: Blueprint HQ
 
 | 版本 | 文件 | 说明 |
 |------|------|------|
 | **V2.2（最新）** | [skills/blueprint-hq-v2.2.md](skills/blueprint-hq-v2.2.md) | 5角色（PM/Dev/QA/User/法务Agent）+ 不可逆操作清单 + 人类确认锁定 + 安全闭环 |
 | V2.1（历史版本） | [skills/blueprint-hq-v2.1.md](skills/blueprint-hq-v2.1.md) | 4角色（PM/Dev/QA/User）+ 强制回归测试 + 数据治理 |
 
-**中文**：内置虚拟角色形成完整软件开发团队。标准流程：需求定义 → 双向挑战辩论 → 代码开发 → 多维度测试 → 回归验证 → 量化验收 → 最终交付。核心优势：低算力消耗、高交付效率，个人/小团队一人即可顶替传统5人开发小组。
+**中文**：内置虚拟角色形成完整软件开发团队。标准流程：需求定义 → 双向挑战辩论 → 代码开发 → 多维度测试 → 回归验证 → 量化验收 → 最终交付。核心优势：低算力消耗、高交付效率，个人/小团队一人即可达到传统5人开发小组的输出水平。
 
-**English**: Equipped with virtual roles to form a complete software development team. Standard Workflow: Requirement Definition → Two-way Debate & Challenge → Coding Development → Multi-dimensional Testing → Regression Verification → Quantitative Acceptance → Final Delivery. Core Advantages: Low computing power consumption & high delivery efficiency. One individual can replace a traditional 5-person development team.
+**English**: Equipped with virtual roles to form a complete software development team. Standard Workflow: Requirement Definition → Two-way Debate & Challenge → Coding Development → Multi-dimensional Testing → Regression Verification → Quantitative Acceptance → Final Delivery. Core Advantages: Low compute overhead & high delivery efficiency. One person can match the output of a traditional 5-person team.
 
 **实测验证**：裁判AI综合评分 4.8/5.0 | 详见 [benchmark/judge-report-20260526.md](benchmark/judge-report-20260526.md)
 
@@ -127,19 +130,23 @@ text
 
 **中文**：如果本项目对你有帮助，欢迎 Star、Fork、Watch。欢迎全球开发者交流技术、洽谈合作。
 
-**English**: If this project helps you, please Star, Fork and Watch. Global developers are welcome for technical communication and business cooperation.
+**English**: If this project helps you, please Star, Fork and Watch. Developers worldwide are welcome to collaborate and discuss business cooperation.
 
 ---
 
 ## 关于作者 | About the Author
 
-**善春（Shan Chun）| AI安全协议研究者**
+**善春（Shan Chun）| AI Security Protocol Researcher**
 
-48岁，江西赣州安远一个小县城。干过汽修、水电工，从传统行业跨行自学AI。全部硬件：一部用了4年的红米手机，一台用了十几年的旧电脑。没有GPU，没有云服务器，没有团队。过去18个月，我用这些设备做出了156个AI功能模块，覆盖7个行业，产品上架了小米应用商店和腾讯元器。
+**中文**：48岁，江西赣州安远一个小县城。干过汽修、水电工，从传统行业跨行自学AI。全部硬件：一部用了4年的红米手机，一台用了十几年的旧电脑。没有GPU，没有云服务器，没有团队。过去18个月，我用这些设备做出了156个AI功能模块，覆盖7个行业，产品上架了小米应用商店和腾讯元器。
+
+**English**: 48 years old, from a small county in Jiangxi, China. Former auto repair mechanic and electrician, self-taught AI from scratch. All hardware: a 4-year-old Redmi phone and a decade-old PC. No GPU, no cloud server, no team. In 18 months, I built 156 AI functional modules across 7 industries, with products listed on Xiaomi App Store and Tencent Yuanqi.
 
 **我不写提示词，我设计认知架构。协议优先，对话次之。**
 
-开源协议：SCAI-16Layers
-GitHub：https://github.com/shanchun-ai/ShanchunAI_Protocol_16Layers
+**I don't write prompts. I design cognitive architectures. Protocol first, dialogue second.**
 
-本仓库内容采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。
+---
+
+**开源协议：SCAI-16Layers**
+**GitHub：https://github.com/shanchun-ai/ShanchunAI_Protocol_16Layers**
