@@ -58,7 +58,8 @@ ShanchunAI-Protocol-16Layers/
 ├── spec/ # 协议标准文档
 │ └── 16-layers-spec-v2.0.md # 完整16层架构定义
 ├── skills/ # 可用的技能包
-│ └── blueprint-hq-v2.1.md # 蓝图指挥部（多智能体协作）
+│ │   ├── blueprint-hq-v2.1.md          # 蓝图指挥部 V2.1（4角色）
+│     └── blueprint-hq-v2.2.md          # 蓝图指挥部 V2.2（5角色+法务+安全闭环） # 蓝图指挥部（多智能体协作）
 ├── benchmark/ # 验证数据
 │ └── judge-report-20260526.md # 裁判AI评分报告
 └── docs/ # 补充文档
