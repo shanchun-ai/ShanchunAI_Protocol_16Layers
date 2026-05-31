@@ -3,7 +3,7 @@
 
 # 善春 AI 16 层安全协议 | ShanchunAI 16 Layers Protocol
 
-**中文**：让 AI 从“简单对话”升级为可落地、可审计、合规安全、支持商业化的标准化运行框架。
+**中文**：让 AI 从"简单对话"升级为可落地、可审计、合规安全、支持商业化的标准化运行框架。
 
 **English**: Empower AI to evolve from simple dialogue into a standardized framework that is practical, auditable, compliant, secure and commercial-ready.
 
@@ -28,19 +28,25 @@
 
 > 🔒 **DNA溯源编码不可移除** · 🏷️ **SCAI商标未经授权不得使用** · 🛡️ **安全层保护不可绕过**
 
-**商业授权规则**：
-- 开源许可（CC BY-NC-SA 4.0）：仅允许个人学习、研究、非商业场景免费使用
-- 商业许可（SCAI Commercial License V1.0）：任何商业运营、二次售卖、企业部署，必须提前获取官方商业授权
-- 强制约束：DNA 溯源编码、SCAI 品牌标识禁止擅自移除、篡改；16 层安全防御架构禁止关闭、绕过、删减
+### 商业授权分层
+
+| 用户类型 | 年营收 | 授权方式 |
+|----------|--------|----------|
+| 个人/非商业 | — | 完全免费 |
+| 小微企业 | <100万元 | 协议免费，增值服务收费 |
+| 中小企业 | 100万-5000万元 | 商业授权 99-499元/年 |
+| 大型企业 | >5000万元 | 按需报价，含企业级支持 |
+
+**强制约束**：DNA 溯源编码、SCAI 品牌标识禁止擅自移除、篡改；安全防御架构禁止关闭、绕过、删减。
 
 商业合作：GitHub Issues 或 CSDN/掘金私信联系
 
 ---
 
-## 🧠 核心架构：16 层串行闭环体系 | Core Architecture: 16-Layer Serial Closed-loop System
+## 🧠 核心架构：16 层串行闭环体系 | Core Architecture
 
 **中文**：
-- **防御模块（第 1-7 层）**：身份校验、合规风控、成本归零、跨领域迁移
+- **防御模块（第 1-7 层）**：身份校验、合规风控、成本极限分析、跨领域迁移
 - **溯源模块（第 8-12 层）**：多智能体辩论、上下文管理、DNA 溯源编码、版本管理
 - **进化模块（第 13-16 层）**：对抗防御、样本变异、跨模型适配、实验知识沉淀
 
@@ -49,11 +55,11 @@
 - **Traceability Module (Layer 8-12)**: Multi-agent debate, context management, DNA traceability code & version control
 - **Evolution Module (Layer 13-16)**: Adversarial defense, sample mutation, cross-model adaptation & knowledge accumulation
 
-完整16层架构定义文档：[spec/16-layers-spec-v2.0.md](spec/16-layers-spec-v2.0.md)
+完整架构定义文档：[spec/16-layers-spec-v2.0.md](spec/16-layers-spec-v2.0.md)
 
 ---
 
-## 🚀 旗舰产品：蓝图指挥部·AI 开发梦之队 | Flagship Product: Blueprint HQ
+## 🚀 旗舰产品：蓝图指挥部·AI 开发梦之队 | Blueprint HQ
 
 | 版本 | 文件 | 说明 |
 |------|------|------|
@@ -88,27 +94,36 @@
 ShanchunAI-Protocol-16Layers/
 ├── README.md # 本文件
 ├── LICENSE # CC BY-NC-SA 4.0
+├── .github/skills/ # Copilot技能包
+│ ├── scai-security-governance/SKILL.md # 安全治理
+│ ├── scai-blueprint-hq/SKILL.md # 蓝图指挥部
+│ └── scai-prompt-guard/SKILL.md # 提示词安全卫士
 ├── spec/
-│ └── 16-layers-spec-v2.0.md # 完整16层架构定义
+│ └── 16-layers-spec-v2.0.md # 17层架构V2.3
+├── code/
+│ ├── dna_encoder.py # DNA溯源编码生成器
+│ └── security_scorer.py # 五维安全评分计算器
 ├── skills/
-│ ├── blueprint-hq-v2.1.md # 蓝图指挥部 V2.1
-│ └── blueprint-hq-v2.2.md # 蓝图指挥部 V2.2（最新）
+│ ├── README.md # 技能商店橱窗
+│ ├── blueprint-hq-v2.1.md # 蓝图指挥部V2.1
+│ └── blueprint-hq-v2.2.md # 蓝图指挥部V2.2
 ├── benchmark/
-│ └── judge-report-20260526.md # 裁判AI评分报告
+│ ├── judge-report-20260526.md # 裁判AI评分报告
+│ └── security-benchmark-v1.0.json # 安全基准测试集
 ├── legal/
 │ └── SCAI-COMMERCIAL-LICENSE-v1.0.md # 商业许可协议
 └── docs/
-└── iteration-roadmap.md # 迭代路线图
-
-text
+├── iteration-roadmap.md # 迭代路线图
+├── methodology-comparison.md # 行业方法论对比
+└── industry-comparison.md # 行业对比分析
 
 ---
 
 ## 🛒 商业服务与合作 | Commercial Services & Cooperation
 
-**中文**：我们提供全链路商业化服务：企业级 AI 协议部署、定制化 AI 技能包开发、技术培训、专属授权合作。
+**中文**：我们提供全链路商业化服务：企业级 AI 协议部署、定制化 AI 技能包开发、技术培训、专属授权合作。具体价格根据企业规模和需求按需报价。
 
-**English**: We provide full-cycle commercial services: enterprise-level AI protocol deployment, customized AI skill packages, technical training and exclusive licensing cooperation.
+**English**: We provide full-cycle commercial services: enterprise-level AI protocol deployment, customized AI skill packages, technical training and exclusive licensing cooperation. Pricing is tailored to enterprise scale and requirements.
 
 **联系方式 | Contact**：
 - 微信：EZT8888888
