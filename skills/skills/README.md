@@ -32,7 +32,7 @@
 
 ### 🧠 韬定律 · 从芯片到人生的系统协同法则
 
-华为“韬定律”的普通人实践版。四级诊断框架 | 能力折叠技术 | 人生τ值压缩。
+华为"韬定律"的普通人实践版。四级诊断框架 | 能力折叠技术 | 人生τ值压缩。
 
 👉 [SkillHub 下载](https://www.skillhub.cn/skills/tao-law-v1)
 
@@ -82,6 +82,6 @@ AI应用开发与落地的方法论工具包。
 
 ---
 
-**作者：善春（Shan Chun）| AI安全协议研究者**
+**安远县趣玩网络科技工作室 | 善春AI**
 **开源协议：SCAI-16Layers**
 **GitHub：https://github.com/shanchun-ai/ShanchunAI_Protocol_16Layers**
