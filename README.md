@@ -39,7 +39,7 @@
 
 **强制约束**：DNA 溯源编码、SCAI 品牌标识禁止擅自移除、篡改；安全防御架构禁止关闭、绕过、删减。
 
-商业合作：GitHub Issues 或 CSDN/掘金私信联系
+商业合作：GitHub Issues 或邮件联系
 
 ---
 
@@ -121,9 +121,14 @@ ShanchunAI-Protocol-16Layers/
 
 ## 🛒 商业服务与合作 | Commercial Services & Cooperation
 
-**中文**：我们提供全链路商业化服务：企业级 AI 协议部署、定制化 AI 技能包开发、技术培训、专属授权合作。具体价格根据企业规模和需求按需报价。
+**安远县趣玩网络科技工作室** 提供全链路商业化服务：
 
-**English**: We provide full-cycle commercial services: enterprise-level AI protocol deployment, customized AI skill packages, technical training and exclusive licensing cooperation. Pricing is tailored to enterprise scale and requirements.
+- 企业级 AI 协议部署与私有化落地
+- 定制化 AI 技能包开发
+- 16 层协议技术培训与认证
+- 专属商业授权与长期技术支持
+
+**定价模式**：根据企业规模与需求按需报价，支持对公合作与发票开具。
 
 **联系方式 | Contact**：
 - 微信：EZT8888888
@@ -133,11 +138,13 @@ ShanchunAI-Protocol-16Layers/
 
 ---
 
-## 🧱 品牌故事 | Brand Story
+## 🧱 关于善春 AI | About ShanchunAI
 
-**中文**：善春 AI 由个人开发者独立研发。出身普通，零基础自学 AI，仅依靠老旧电脑与移动设备，历时 18 个月，打磨出 156 个功能模块、完整协议体系与多智能体开发系统。无专业团队、无高端算力、无资本加持，坚持协议优先，技术为本，打造人人可用、安全可靠的 AI 底层标准。
+善春 AI 由独立开发者善春创立，历时 18 个月系统性打磨，构建出 156 个功能模块、完整协议体系与多智能体开发系统。项目坚持"协议优先，技术为本"的研发理念，致力于打造人人可用、安全可靠的 AI 底层标准。
 
-**English**: ShanchunAI is independently developed by a solo developer. Starting from scratch, I learned AI by myself. With only old computers and mobile devices, I spent 18 months building 156 functional modules, a complete protocol system and multi-agent development system. No professional team, no high-end computing power, no capital investment. We adhere to Protocol First, Technology Oriented, and build a secure & reliable underlying AI standard for everyone.
+核心产品已上架 **小米应用商店** 与 **腾讯元器**，服务覆盖 7 个行业场景。
+
+**研发理念**：我不写提示词，我设计认知架构。协议优先，对话次之。
 
 ---
 
@@ -151,15 +158,15 @@ ShanchunAI-Protocol-16Layers/
 
 ## 关于作者 | About the Author
 
-**善春（Shan Chun）| AI Security Protocol Researcher**
+**善春（Shan Chun）| AI Security Protocol Researcher & Founder**
 
-**中文**：48岁，江西赣州安远一个小县城。干过汽修、水电工，从传统行业跨行自学AI。全部硬件：一部用了4年的红米手机，一台用了十几年的旧电脑。没有GPU，没有云服务器，没有团队。过去18个月，我用这些设备做出了156个AI功能模块，覆盖7个行业，产品上架了小米应用商店和腾讯元器。
+跨领域技术背景，深耕 AI 安全协议与多智能体架构设计。基于个人电脑与移动设备完成全栈开发，独立构建 156 个 AI 功能模块，覆盖 7 个行业领域。产品已上架小米应用商店与腾讯元器。
 
-**English**: 48 years old, from a small county in Jiangxi, China. Former auto repair mechanic and electrician, self-taught AI from scratch. All hardware: a 4-year-old Redmi phone and a decade-old PC. No GPU, no cloud server, no team. In 18 months, I built 156 AI functional modules across 7 industries, with products listed on Xiaomi App Store and Tencent Yuanqi.
+**技术信仰**：协议优先，对话次之。
 
-**我不写提示词，我设计认知架构。协议优先，对话次之。**
+**English**: Cross-disciplinary technical background, specializing in AI security protocols and multi-agent architecture design. Completed full-stack development using personal computing resources, independently built 156 AI functional modules across 7 industries. Products listed on Xiaomi App Store and Tencent Yuanqi.
 
-**I don't write prompts. I design cognitive architectures. Protocol first, dialogue second.**
+**Technical Belief**: Protocol first, dialogue second.
 
 ---
 
