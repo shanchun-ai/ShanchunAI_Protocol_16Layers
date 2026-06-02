@@ -1,8 +1,8 @@
 善春AI协议许可证 v1.0
 SCAI Protocol License v1.0
 
-版权所有 (c) 2026 何秀春 / 善春AI / SCAI
-Copyright (c) 2026 Xiuchun He / Shanchun AI / SCAI
+版权所有 (c) 2026 安远县趣玩网络科技工作室 / 何秀春 / 善春AI / SCAI
+Copyright (c) 2026 Anyuan Quwan Network Technology Studio / Xiuchun He / Shanchun AI / SCAI
 
 ================================================================================
 序言 | Preamble
