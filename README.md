@@ -1,19 +1,21 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![SCAI Commercial License](https://img.shields.io/badge/Commercial-SCAI%20License-blue.svg)](legal/SCAI-COMMERCIAL-LICENSE-v1.0.md)
 
-# 善春 AI 16 层安全协议 | ShanchunAI 16 Layers Protocol
+# 善春AI协议宇宙 · ShanchunAI Protocol Universe
 
-**中文**：让 AI 从"简单对话"升级为可落地、可审计、合规安全、支持商业化的标准化运行框架。
+**中文**：从单次AI对话的安全，到人类认知的免疫——一套让AI可用、可信、不驯化人的完整协议体系。
 
-**English**: Empower AI to evolve from simple dialogue into a standardized framework that is practical, auditable, compliant, secure and commercial-ready.
+**English**: From single-session AI safety to cognitive immunity for humans — a complete protocol system making AI usable, auditable, and non-domesticating.
+
+> 📌 **当前稳定版：V2.3（17层架构）** | 🔮 **V3.0协议宇宙预览版已开放**：[查看 /v3/ 目录](v3/)
 
 ---
 
 ## 🔒 项目定位 | Project Positioning
 
-**中文**：本项目并非普通提示词，而是一套自研 AI 底层交互协议。系统性解决行业三大痛点：AI 指令易被绕过、输出结果不可信、安全防御无法自主迭代。整套架构支持私有化部署、端到端校验与版本溯源。
+**中文**：本项目并非普通提示词，而是一套自研 AI 底层交互协议。系统性解决行业四大痛点：AI 指令易被绕过、输出结果不可信、安全防御无法自主迭代、**人类在AI辅助中逐渐丧失独立思考能力**。整套架构支持私有化部署、端到端校验与版本溯源。
 
-**English**: This is not a regular prompt, but a self-developed underlying interaction protocol for AI. It systematically solves three major industry pain points: prompt injection vulnerabilities, unreliable outputs, and non-adaptive defense mechanisms. The whole architecture supports private deployment, end-to-end verification and version traceability.
+**English**: This is not a regular prompt, but a self-developed underlying interaction protocol for AI. It systematically solves four major industry pain points: prompt injection vulnerabilities, unreliable outputs, non-adaptive defense mechanisms, and **human cognitive dependency on AI**. The whole architecture supports private deployment, end-to-end verification and version traceability.
 
 ---
 
@@ -43,19 +45,29 @@
 
 ---
 
-## 🧠 核心架构：16 层串行闭环体系 | Core Architecture
+## 🧠 核心架构 | Core Architecture
+
+### V2.3 稳定版：17层安全协议
 
 **中文**：
-- **防御模块（第 1-7 层）**：身份校验、合规风控、成本极限分析、跨领域迁移
-- **溯源模块（第 8-12 层）**：多智能体辩论、上下文管理、DNA 溯源编码、版本管理
-- **进化模块（第 13-16 层）**：对抗防御、样本变异、跨模型适配、实验知识沉淀
-
-**English**:
-- **Defense Module (Layer 1-7)**: Identity verification, compliance risk control, cost neutralization & cross-domain transfer
-- **Traceability Module (Layer 8-12)**: Multi-agent debate, context management, DNA traceability code & version control
-- **Evolution Module (Layer 13-16)**: Adversarial defense, sample mutation, cross-model adaptation & knowledge accumulation
+- **认知启动（第 1-4.5 层）**：身份定义 → 前置验证 → 安全合规 → 第一性原理 → 苏格拉底追问
+- **防御核心（第 5-7 层）**：工程迭代、成本极限分析、跨领域迁移
+- **验证与溯源（第 8-12 层）**：多智能体辩论 → 上下文管理 → 质量审计 → 外婆测试 → DNA溯源 → 版本管理
+- **对抗与进化（第 13-16 层）**：对抗防御、样本变异、跨模型标定、实验知识沉淀
 
 完整架构定义文档：[spec/16-layers-spec-v2.0.md](spec/16-layers-spec-v2.0.md)
+
+### V3.0 预览版：协议宇宙（16层 + V0-V6认知宇宙）
+
+> 🔮 16层安全协议（工程骨架） + V0-V6认知宇宙（认知灵魂） = 完整的认知免疫系统
+
+| 模块 | 内容 | 入口 |
+|------|------|------|
+| 认知宇宙 V0-V6 | 从手把手教学到奇思妙想的完整认知分层体系 | [v3/cognitive-universe/](v3/cognitive-universe/) |
+| 16层安全协议 V3.0 | 融合认知分层的工程防御架构 | [v3/spec/](v3/spec/) |
+| 融合映射文档 | 16层与V1-V6的逐层对应关系 | [v3/docs/fusion-mapping.md](v3/docs/fusion-mapping.md) |
+| 完整使用说明书 | V0到V6的升级路线与使用场景 | [v3/docs/usage-guide.md](v3/docs/usage-guide.md) |
+| 18个月开源路线图 | 从个人项目到行业标准的执行计划 | [v3/docs/open-source-strategy.md](v3/docs/open-source-strategy.md) |
 
 ---
 
@@ -77,29 +89,36 @@
 ## 🔥 适用人群与价值 | Target Users & Value
 
 **中文**：
-- **中小企业**：解决 AI 使用合规、数据安全、结果可追溯难题
-- **个人/小型开发团队**：大幅压缩开发周期与算力成本，提升产品质量
-- **行业从业者/AI 学习者**：搭建标准化 AI 使用规范，规避使用风险
+- **零基础小白、转行者**：从 V1 职业协议层开始，手把手学会用AI做好本职工作
+- **中小企业、个体开发者**：用 V2 智能体协议层搭建7×24小时AI员工，合规安全
+- **培训师、内容创作者**：用 V3 生成器协议层批量生产任意职业的AI教练
+- **架构师、标准制定者**：用 V4-V5 从第一性原理设计认知升级体系
 - **创业者**：快速落地产品想法，低成本完成项目验证
 
 **English**:
-- **SMEs**: Solve problems of AI compliance, data security and traceability
-- **Individual & Small Development Teams**: Shorten development cycles, reduce computing costs and improve product quality
-- **Practitioners & AI Learners**: Build standardized AI usage rules and avoid risks
+- **Beginners & Career Changers**: Start from V1 Career Protocol, learn to use AI for your job step by step
+- **SMEs & Solo Developers**: Build 24/7 AI assistants with V2 Agent Protocol, compliant and secure
+- **Trainers & Content Creators**: Mass-produce AI coaches for any profession with V3 Generator Protocol
+- **Architects & Standard Setters**: Design cognitive upgrade systems from first principles with V4-V5
 - **Entrepreneurs**: Turn ideas into products rapidly and verify projects at low cost
 
 ---
 
 ## 📂 仓库结构 | Repository Structure
 ShanchunAI-Protocol-16Layers/
-├── README.md # 本文件
+├── README.md # 本文件（总纲）
 ├── LICENSE # CC BY-NC-SA 4.0
+├── v3/ # 🔮 V3.0 协议宇宙预览版
+│ ├── README.md # V3.0 导航
+│ ├── cognitive-universe/ # V0-V6 认知宇宙
+│ ├── spec/ # 16层安全协议 V3.0
+│ └── docs/ # 融合映射+使用指南+开源路线图
 ├── .github/skills/ # Copilot技能包
 │ ├── scai-security-governance/SKILL.md # 安全治理
 │ ├── scai-blueprint-hq/SKILL.md # 蓝图指挥部
 │ └── scai-prompt-guard/SKILL.md # 提示词安全卫士
 ├── spec/
-│ └── 16-layers-spec-v2.0.md # 17层架构V2.3
+│ └── 16-layers-spec-v2.0.md # 17层架构 V2.3（稳定版）
 ├── code/
 │ ├── dna_encoder.py # DNA溯源编码生成器
 │ └── security_scorer.py # 五维安全评分计算器
@@ -158,7 +177,7 @@ ShanchunAI-Protocol-16Layers/
 
 ## 关于作者 | About the Author
 
-**善春（Shan Chun）| AI Security Protocol Researcher & Founder**
+**善春（Shan Chun）| AI Protocol Design Standard Setter & Founder**
 
 跨领域技术背景，深耕 AI 安全协议与多智能体架构设计。基于个人电脑与移动设备完成全栈开发，独立构建 156 个 AI 功能模块，覆盖 7 个行业领域。产品已上架小米应用商店与腾讯元器。
 
@@ -170,5 +189,5 @@ ShanchunAI-Protocol-16Layers/
 
 ---
 
-**开源协议：SCAI-16Layers**
+**开源协议：SCAI-16Layers-Universe**
 **GitHub：https://github.com/shanchun-ai/ShanchunAI_Protocol_16Layers**
