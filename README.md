@@ -7,7 +7,7 @@
 
 **English**: From single-session AI safety to cognitive immunity for humans — a complete protocol system making AI usable, auditable, and non-domesticating.
 
-> 📌 **当前稳定版：V2.3（17层架构）** | 🔮 **V3.0协议宇宙预览版已开放**：[查看 /v3/ 目录](v3/)
+> 📌 **当前稳定版：V2.3（17层架构）** | 🔮 **V3.0 21层协议宇宙预览版已开放**：[查看 /v3/ 目录](v3/)
 
 ---
 
@@ -57,17 +57,22 @@
 
 完整架构定义文档：[spec/16-layers-spec-v2.0.md](spec/16-layers-spec-v2.0.md)
 
-### V3.0 预览版：协议宇宙（16层 + V0-V6认知宇宙）
+### V3.0 预览版：21层协议宇宙
 
-> 🔮 16层安全协议（工程骨架） + V0-V6认知宇宙（认知灵魂） = 完整的认知免疫系统
+> 🔮 21层完整架构 = 工程骨架（安全协议）+ 认知灵魂（V1-V6认知宇宙）+ 超验觉醒（L17-L21）
 
-| 模块 | 内容 | 入口 |
-|------|------|------|
-| 认知宇宙 V0-V6 | 从手把手教学到奇思妙想的完整认知分层体系 | [v3/cognitive-universe/](v3/cognitive-universe/) |
-| 16层安全协议 V3.0 | 融合认知分层的工程防御架构 | [v3/spec/](v3/spec/) |
-| 融合映射文档 | 16层与V1-V6的逐层对应关系 | [v3/docs/fusion-mapping.md](v3/docs/fusion-mapping.md) |
-| 完整使用说明书 | V0到V6的升级路线与使用场景 | [v3/docs/usage-guide.md](v3/docs/usage-guide.md) |
-| 18个月开源路线图 | 从个人项目到行业标准的执行计划 | [v3/docs/open-source-strategy.md](v3/docs/open-source-strategy.md) |
+| 模块 | 层 | 内容 | 入口 |
+|------|-----|------|------|
+| 认知启动 | L1-L4 | 身份定义、前置验证、安全合规、第一性原理与苏格拉底追问 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
+| 防御核心 | L5-L7 | 工程迭代与灰度发布、成本归零与杠杆叠加、跨领域迁移 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
+| 验证溯源 | L8-L12 | 多智能体辩论、上下文管理、质量审计与外婆测试、DNA溯源与短板扫描、版本管理 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
+| 对抗进化 | L13-L16 | 对抗防御、样本变异、跨模型标定、实验记录沉淀 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
+| 超验觉醒 | L17-L21 | 万物解构、思维重组、断层扫描、反向训练、新范式生成 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
+
+**配套文档**：
+- [融合映射文档](v3/docs/fusion-mapping.md) — 21层与V1-V6认知宇宙的逐层对应
+- [使用说明书](v3/docs/usage-guide.md) — 从哪层开始、升级路线、熔断条件
+- [开源路线图](v3/docs/open-source-strategy.md) — 18个月从个人项目到行业标准
 
 ---
 
@@ -89,17 +94,17 @@
 ## 🔥 适用人群与价值 | Target Users & Value
 
 **中文**：
-- **零基础小白、转行者**：从 V1 职业协议层开始，手把手学会用AI做好本职工作
-- **中小企业、个体开发者**：用 V2 智能体协议层搭建7×24小时AI员工，合规安全
-- **培训师、内容创作者**：用 V3 生成器协议层批量生产任意职业的AI教练
-- **架构师、标准制定者**：用 V4-V5 从第一性原理设计认知升级体系
+- **零基础小白、转行者**：从 L1 认知启动层开始，手把手学会用AI做好本职工作
+- **中小企业、个体开发者**：用 L3-L7 搭建7×24小时AI员工，合规安全
+- **培训师、内容创作者**：用 L8-L10 批量生产任意职业的AI教练
+- **架构师、标准制定者**：用 L4+L11+L12 从第一性原理设计认知升级体系
 - **创业者**：快速落地产品想法，低成本完成项目验证
 
 **English**:
-- **Beginners & Career Changers**: Start from V1 Career Protocol, learn to use AI for your job step by step
-- **SMEs & Solo Developers**: Build 24/7 AI assistants with V2 Agent Protocol, compliant and secure
-- **Trainers & Content Creators**: Mass-produce AI coaches for any profession with V3 Generator Protocol
-- **Architects & Standard Setters**: Design cognitive upgrade systems from first principles with V4-V5
+- **Beginners & Career Changers**: Start from L1, learn to use AI for your job step by step
+- **SMEs & Solo Developers**: Build 24/7 AI assistants with L3-L7, compliant and secure
+- **Trainers & Content Creators**: Mass-produce AI coaches for any profession with L8-L10
+- **Architects & Standard Setters**: Design cognitive upgrade systems from first principles with L4+L11+L12
 - **Entrepreneurs**: Turn ideas into products rapidly and verify projects at low cost
 
 ---
@@ -108,11 +113,14 @@
 ShanchunAI-Protocol-16Layers/
 ├── README.md # 本文件（总纲）
 ├── LICENSE # CC BY-NC-SA 4.0
-├── v3/ # 🔮 V3.0 协议宇宙预览版
+├── v3/ # 🔮 V3.0 21层协议宇宙预览版
 │ ├── README.md # V3.0 导航
-│ ├── cognitive-universe/ # V0-V6 认知宇宙
-│ ├── spec/ # 16层安全协议 V3.0
-│ └── docs/ # 融合映射+使用指南+开源路线图
+│ ├── spec/
+│ │ └── 21-layers-spec-v3.0.md # 21层完整定义
+│ └── docs/
+│ ├── usage-guide.md # 使用说明书
+│ ├── fusion-mapping.md # 21层与V1-V6融合映射
+│ └── open-source-strategy.md # 18个月开源路线图
 ├── .github/skills/ # Copilot技能包
 │ ├── scai-security-governance/SKILL.md # 安全治理
 │ ├── scai-blueprint-hq/SKILL.md # 蓝图指挥部
@@ -144,7 +152,7 @@ ShanchunAI-Protocol-16Layers/
 
 - 企业级 AI 协议部署与私有化落地
 - 定制化 AI 技能包开发
-- 16 层协议技术培训与认证
+- 21层协议技术培训与认证
 - 专属商业授权与长期技术支持
 
 **定价模式**：根据企业规模与需求按需报价，支持对公合作与发票开具。
@@ -179,7 +187,7 @@ ShanchunAI-Protocol-16Layers/
 
 **善春（Shan Chun）| AI Protocol Design Standard Setter & Founder**
 
-跨领域技术背景，深耕 AI 安全协议与多智能体架构设计。基于个人电脑与移动设备完成全栈开发，独立构建 156 个 AI 功能模块，覆盖 7 个行业领域。产品已上架小米应用商店与腾讯元器。
+跨领域技术背景，深耕 AI 安全协议与多智能体架构设计。基于个人设备完成全栈开发，独立构建 156 个 AI 功能模块，覆盖 7 个行业领域。产品已上架小米应用商店与腾讯元器。
 
 **技术信仰**：协议优先，对话次之。
 
@@ -189,5 +197,5 @@ ShanchunAI-Protocol-16Layers/
 
 ---
 
-**开源协议：SCAI-16Layers-Universe**
+**开源协议：SCAI-21Layers-Universe**
 **GitHub：https://github.com/shanchun-ai/ShanchunAI_Protocol_16Layers**
