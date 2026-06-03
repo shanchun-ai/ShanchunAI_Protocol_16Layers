@@ -80,7 +80,7 @@
 
 | 版本 | 文件 | 说明 |
 |------|------|------|
-| **V2.2（最新）** | [skills/blueprint-hq-v2.2.md](skills/blueprint-hq-v2.2.md) | 5角色（PM/Dev/QA/User/法务Agent）+ 不可逆操作清单 + 人类确认锁定 + 安全闭环 |
+| **V2.2（最新）** | [skills/blueprint-hq-v2.2.md](blueprint-hq-v2.2.md) | 5角色（PM/Dev/QA/User/法务Agent）+ 不可逆操作清单 + 人类确认锁定 + 安全闭环 |
 | V2.1（历史版本） | [skills/blueprint-hq-v2.1.md](skills/blueprint-hq-v2.1.md) | 4角色（PM/Dev/QA/User）+ 强制回归测试 + 数据治理 |
 
 **中文**：内置虚拟角色形成完整软件开发团队。标准流程：需求定义 → 双向挑战辩论 → 代码开发 → 多维度测试 → 回归验证 → 量化验收 → 最终交付。核心优势：低算力消耗、高交付效率，个人/小团队一人即可达到传统5人开发小组的输出水平。
