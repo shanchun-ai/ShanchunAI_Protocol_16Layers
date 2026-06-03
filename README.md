@@ -70,8 +70,8 @@
 | 超验觉醒 | L17-L21 | 万物解构、思维重组、断层扫描、反向训练、新范式生成 | [v3/spec/21-layers-spec-v3.0.md](v3/spec/21-layers-spec-v3.0.md) |
 
 **配套文档**：
+- [21层完整定义](v3/spec/21-layers-spec-v3.0.md) — 逐层展开，含使用说明
 - [融合映射文档](v3/docs/fusion-mapping.md) — 21层与V1-V6认知宇宙的逐层对应
-- [使用说明书](v3/docs/usage-guide.md) — 从哪层开始、升级路线、熔断条件
 - [开源路线图](v3/docs/open-source-strategy.md) — 18个月从个人项目到行业标准
 
 ---
@@ -118,7 +118,6 @@ ShanchunAI-Protocol-16Layers/
 │ ├── spec/
 │ │ └── 21-layers-spec-v3.0.md # 21层完整定义
 │ └── docs/
-│ ├── usage-guide.md # 使用说明书
 │ ├── fusion-mapping.md # 21层与V1-V6融合映射
 │ └── open-source-strategy.md # 18个月开源路线图
 ├── .github/skills/ # Copilot技能包
